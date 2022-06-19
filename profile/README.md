@@ -7,6 +7,6 @@ SharkurMC is a Minecraft software organization that focuses on improving perform
 It belongs to the [Garlic-Team](https://github.com/Garlic-Team/).
 
 ### Links
-Garlic-Team: [GitHub](https://github.com/Garlic-Team/) [Website](https://rgarlic.eu)  
-SharkurMC: [GitHub](https://github.com/SharkurMC) [Website](https://purpur.rgarlic.eu)  
+Garlic-Team: [GitHub](https://github.com/Garlic-Team/) | [Website](https://rgarlic.eu)  
+SharkurMC: [GitHub](https://github.com/SharkurMC) | [Website](https://purpur.rgarlic.eu)  
 Discord: [Here](https://discord.gg/AjKJSBbGm2)  
